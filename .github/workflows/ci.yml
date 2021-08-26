@@ -28,7 +28,7 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npm run test
-      - run: npx prettier --check "{packages/*/src,packages/*/__tests__}/**"
+      - run: npx prettier --check "{src}/**"
       - run: npm audit --audit-level=moderate
       - name: Archive code coverage results
         uses: actions/upload-artifact@v2.2.4
