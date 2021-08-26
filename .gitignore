@@ -157,3 +157,5 @@ distribution/
 *_NCrunch_*
 source/IdentityServer3.sln.GhostDoc.xml
 /.vs
+
+dist/*
