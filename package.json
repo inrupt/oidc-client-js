@@ -59,7 +59,7 @@
     "webpack": "^4.46.0",
     "webpack-stream": "^5.2.1"
   },
-  "typings": "index.d.ts", 
+  "typings": "index.d.ts",
   "publishConfig": {
     "access": "public"
   }
