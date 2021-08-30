@@ -29,7 +29,7 @@ jobs:
       - run: npm run build
       - run: npm run test
       - run: npx prettier --check "src/**"
-      - run: npm audit --audit-level=moderate
+      - run: npm audit
       - name: Archive code coverage results
         uses: actions/upload-artifact@v2.2.4
         continue-on-error: true
