@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/inrupt/oidc-client-js",
   "dependencies": {
-    "acorn": "^7.4.1",
+    "acorn": "^8.4.1",
     "base64-js": "^1.5.1",
     "core-js": "^3.16.4",
     "crypto-js": "^4.0.0",
