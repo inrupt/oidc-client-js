@@ -36,7 +36,7 @@
     "base64-js": "^1.5.1",
     "core-js": "^3.16.4",
     "crypto-js": "^4.0.0",
-    "serialize-javascript": "^4.0.0"
+    "serialize-javascript": "^6.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
