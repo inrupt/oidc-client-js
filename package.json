@@ -59,7 +59,7 @@
     "terser-webpack-plugin": "^4.2.3",
     "vinyl-source-stream": "^2.0.0",
     "webpack": "^4.46.0",
-    "webpack-stream": "^5.2.1"
+    "webpack-stream": "^6.1.2"
   },
   "typings": "index.d.ts",
   "publishConfig": {
