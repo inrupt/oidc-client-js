@@ -159,3 +159,4 @@ source/IdentityServer3.sln.GhostDoc.xml
 /.vs
 
 dist/*
+lib/*

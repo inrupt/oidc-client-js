@@ -46,7 +46,7 @@ If you are using UMD/AMD and/or you already have included an ES6 polyfill (such 
 ## Building the Source
 
 ```
-git clone https://github.com/IdentityModel/oidc-client-js.git
+git clone https://github.com/inrupt/oidc-client-js.git
 cd oidc-client-js
 npm install
 npm run build
@@ -68,4 +68,4 @@ Some initial docs are [here](https://github.com/IdentityModel/oidc-client-js/wik
 
 ## Feedback, Feature requests, and Bugs
 
-All are welcome on the [issue tracker](https://github.com/IdentityModel/oidc-client-js/issues).
+All are welcome on the [issue tracker](https://github.com/inrupt/oidc-client-js/issues).
