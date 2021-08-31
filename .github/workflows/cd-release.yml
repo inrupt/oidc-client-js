@@ -64,7 +64,7 @@ jobs:
         #      }
         #    }
         run: |
-          npm run publish -- from-package --yes 
+          npm publish
           echo "Packages published. To install, run:"
           echo ""
           echo "    npm install @inrupt/oidc-client"
