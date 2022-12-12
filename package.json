@@ -53,7 +53,7 @@
     "gulp-rename": "^2.0.0",
     "jsbn": "^1.1.0",
     "jsrsasign": "^10.3.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "natives": "^1.1.6",
     "open": "^8.4.0",
     "terser-webpack-plugin": "^4.2.3",
